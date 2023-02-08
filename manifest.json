@@ -1,0 +1,15 @@
+{
+  "short_name": "Abdullah Yusuf Ali, The Message of Islam, New Edition",
+  "name": "Abdullah Yusuf Ali, The Message of Islam, New Edition",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "32x32",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
